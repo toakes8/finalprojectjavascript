@@ -6,7 +6,7 @@ In this website we used node.js to run a server off our computers to host a webs
 
 Using node app.js in the main directory you will be sent to the index page where you can access the website.
 
-registration page can be found at /register
+registration page to create new users to test database can be found at /register
 
 DID
 1. added the ability to add users
